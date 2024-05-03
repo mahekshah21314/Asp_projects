@@ -1,7 +1,8 @@
 ASP.NET README
 This README provides an overview of various ASP.NET concepts and functionalities implemented in this project.
     
-Action Selector
+Action Selector:
+
 Action selectors are used in ASP.NET to determine which action method of a controller should be invoked in response to a request. They provide a way to route incoming requests to the appropriate action method based on various criteria such as HTTP verbs, parameters, or route attributes.
 
 Codebase
