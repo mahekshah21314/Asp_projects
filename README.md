@@ -1,20 +1,5 @@
 ASP.NET README
 This README provides an overview of various ASP.NET concepts and functionalities implemented in this project.
-## Table of Contents
-
-1. [Action Selector](#action-selector)
-2. [Codebase](#codebase)
-3. [Code-First Approach](#code-first-approach)
-4. [Controller To View](#controller-to-view)
-5. [Controller To View 1](#controller-to-view-1)
-6. [Controller With JSON](#controller-with-json)
-7. [Database First](#database-first)
-8. [First Core App](#first-core-app)
-9. [Form Tag Helper](#form-tag-helper)
-10. [Model Demo](#model-demo)
-11. [Model To View](#model-to-view)
-12. [My Controller](#my-controller)
-13. [Registration Form](#registration-form)
     
 Action Selector
 Action selectors are used in ASP.NET to determine which action method of a controller should be invoked in response to a request. They provide a way to route incoming requests to the appropriate action method based on various criteria such as HTTP verbs, parameters, or route attributes.
